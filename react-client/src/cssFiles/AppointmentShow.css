@@ -1,0 +1,48 @@
+body {
+  font: normal medium/1.4 sans-serif;
+  color: #a6a6a6;
+}
+table {
+  border-collapse: collapse;
+  width: 95%;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+th,
+td {
+  padding: 0.25rem;
+  text-align: left;
+  border: 1px solid #ccc;
+}
+tbody tr:nth-child(odd) {
+  background: #006600;
+}
+
+tr:hover {
+  background-color: yellowgreen;
+  color: black;
+}
+tbody tr:hover:nth-child(odd) {
+  background-color: yellowgreen;
+  color: black;
+}
+
+button {
+  background-color: rgba(128, 255, 0, 0.562);
+}
+
+button:hover {
+  background-color: aqua;
+}
+
+#head h2 {
+  float: left;
+}
+
+#refresh {
+  float: right;
+  height: 50px;
+  width: 50x;
+
+  top: 100px;
+}

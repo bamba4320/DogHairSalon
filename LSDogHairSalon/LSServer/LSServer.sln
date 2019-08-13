@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LSServer", "LSServer\LSServer.csproj", "{7F680198-4395-4CFD-81F6-171F94664623}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4F06DC69-5635-409A-BE6A-9E02C225CBD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F680198-4395-4CFD-81F6-171F94664623}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F680198-4395-4CFD-81F6-171F94664623}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F680198-4395-4CFD-81F6-171F94664623}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F680198-4395-4CFD-81F6-171F94664623}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6878B07-665B-492C-9142-910FB6B76C3C}
+	EndGlobalSection
+EndGlobal

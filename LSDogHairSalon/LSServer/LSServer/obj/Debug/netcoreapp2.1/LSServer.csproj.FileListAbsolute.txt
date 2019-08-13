@@ -1,0 +1,14 @@
+D:\LSWorkAppProj\LSDogHairSalon\LSServer\LSServer\bin\Debug\netcoreapp2.1\LSServer.deps.json
+D:\LSWorkAppProj\LSDogHairSalon\LSServer\LSServer\bin\Debug\netcoreapp2.1\LSServer.runtimeconfig.json
+D:\LSWorkAppProj\LSDogHairSalon\LSServer\LSServer\bin\Debug\netcoreapp2.1\LSServer.runtimeconfig.dev.json
+D:\LSWorkAppProj\LSDogHairSalon\LSServer\LSServer\bin\Debug\netcoreapp2.1\LSServer.dll
+D:\LSWorkAppProj\LSDogHairSalon\LSServer\LSServer\bin\Debug\netcoreapp2.1\LSServer.pdb
+D:\LSWorkAppProj\LSDogHairSalon\LSServer\LSServer\obj\Debug\netcoreapp2.1\LSServer.csprojAssemblyReference.cache
+D:\LSWorkAppProj\LSDogHairSalon\LSServer\LSServer\obj\Debug\netcoreapp2.1\LSServer.csproj.CoreCompileInputs.cache
+D:\LSWorkAppProj\LSDogHairSalon\LSServer\LSServer\obj\Debug\netcoreapp2.1\LSServer.RazorAssemblyInfo.cache
+D:\LSWorkAppProj\LSDogHairSalon\LSServer\LSServer\obj\Debug\netcoreapp2.1\LSServer.RazorAssemblyInfo.cs
+D:\LSWorkAppProj\LSDogHairSalon\LSServer\LSServer\obj\Debug\netcoreapp2.1\LSServer.AssemblyInfoInputs.cache
+D:\LSWorkAppProj\LSDogHairSalon\LSServer\LSServer\obj\Debug\netcoreapp2.1\LSServer.AssemblyInfo.cs
+D:\LSWorkAppProj\LSDogHairSalon\LSServer\LSServer\obj\Debug\netcoreapp2.1\LSServer.RazorTargetAssemblyInfo.cache
+D:\LSWorkAppProj\LSDogHairSalon\LSServer\LSServer\obj\Debug\netcoreapp2.1\LSServer.dll
+D:\LSWorkAppProj\LSDogHairSalon\LSServer\LSServer\obj\Debug\netcoreapp2.1\LSServer.pdb

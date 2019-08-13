@@ -1,0 +1,43 @@
+.SignupArea {
+  text-align: center;
+  color: #a6a6a6;
+  height: 700px;
+  width: 600px;
+  left: 275px;
+}
+
+.InputArea {
+  position: absolute;
+  left: 500px;
+  width: 300px;
+  text-align: left;
+}
+
+#UUN {
+  top: 180px;
+}
+
+#UP {
+  top: 220px;
+}
+
+.InputArea input {
+  float: right;
+}
+
+#UDP {
+  top: 260px;
+}
+#UN {
+  top: 300px;
+}
+
+#SubBtnArea {
+  position: absolute;
+  top: 500px;
+  left: 1000px;
+}
+
+button:hover {
+  background-color: aqua;
+}

@@ -1,0 +1,51 @@
+.Login {
+  text-align: center;
+  color: #a6a6a6;
+  height: 600px;
+  width: 600px;
+  left: 175px;
+}
+.LoginInputArea {
+  height: 500px;
+  top: 200px;
+}
+
+h2 {
+  text-align: left;
+  margin-left: 30px;
+  margin-top: 0px;
+}
+
+#usernameInput {
+  position: absolute;
+  top: 325px;
+  height: 50px;
+  width: 300px;
+  left: 575px;
+  padding-bottom: 10px;
+}
+#passwordInput {
+  position: absolute;
+  top: 375px;
+  height: 50px;
+  width: 300px;
+  left: 575px;
+}
+
+#SubmitArea {
+  position: absolute;
+  top: 500px;
+  height: 100px;
+  width: 300;
+  left: 1000px;
+}
+
+#SubBtn {
+  left: 100px;
+  width: 75px;
+  background-color: #00cc44;
+}
+
+#SubBtn:hover {
+  background-color: aqua;
+}

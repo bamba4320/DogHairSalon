@@ -1,0 +1,48 @@
+.MainForm {
+  text-align: center;
+  color: #a6a6a6;
+  height: 600px;
+  width: 600px;
+  left: 275px;
+}
+
+.DataDiv {
+  margin: auto;
+  left: 800px;
+  height: 50px;
+  width: 300px;
+  text-align: left;
+}
+
+#username {
+  top: 200px;
+}
+#date {
+  top: 240px;
+}
+
+#time {
+  top: 280px;
+}
+
+#apply {
+  margin: auto;
+  left: 1000px;
+  height: 50px;
+  width: 300px;
+  text-align: center;
+  top: 350px;
+}
+
+#apply button {
+  left: 300px;
+}
+
+#back {
+  margin: auto;
+  left: 950px;
+  height: 50px;
+  width: 300px;
+  text-align: center;
+  top: 1000px;
+}
